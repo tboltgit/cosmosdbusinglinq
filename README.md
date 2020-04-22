@@ -16,6 +16,9 @@ This repo describes following concept :
 # Usage 
 The idea is pretty simple, for how to write code for using comosdb with various operation and taking leverage of repository pattern,generics and less dependent code which describes seperation of concerns so that adding new table/collection or connecting to document client would be done in an easy way.
 
+# Document Client 
+https://www.nuget.org/stats/packages/Microsoft.Azure.Documents.Client?groupby=Version
+
 # Example how to get start using cosmos db
 
             class Employee
