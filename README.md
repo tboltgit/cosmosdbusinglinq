@@ -1,5 +1,5 @@
 # cosmosdbusinglinq
-This repo states that how cosmos db can be queried using c# linq
+This repo states how cosmos db can be used with c# linq
 
 # What is Cosmos db ? 
 https://github.com/tboltgit/cosmosdbusinglinq/tree/master/docs/Azure%20Cosmos%20Db.pptx 
