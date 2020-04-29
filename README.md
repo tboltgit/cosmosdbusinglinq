@@ -11,7 +11,7 @@ This repo describes following concept :
     1. How to perform server side queries cosmos db  
     2. How to perform server side pagination 
     3. How to perform search,sorting etc at server side 
-    4. How to peform CURD operations 
+    4. How to perform CRUD operations 
     
 # Usage 
 The idea is pretty simple, for how to write code for using comosdb with various operation and taking leverage of repository pattern,generics and less dependent code which describes seperation of concerns so that adding new table/collection or connecting to document client would be done in an easy way.
